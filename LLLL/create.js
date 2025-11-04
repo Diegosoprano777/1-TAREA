@@ -1,0 +1,14 @@
+console.log("--------------------------------------");
+let var1=("El nombre del cliente es:");
+let var2=("Juan Perez-----fecha de hoy:02-06-2024");
+console.log(var1 + " " + var2);
+console.log("---------------------------------------");
+let var3=("El producto comprado es:");
+let var4=("Laptop Dell Inspiron 15");
+let var5=("con un valor de:");
+let var6=("$800 USD");
+console.log(var3 + " " + var4 + " " + var5 + " " + var6);
+console.log("---------------------------------------");
+let var7=("Gracias por su compra, vuelva pronto!");
+console.log(var7);
+console.log("---------------------------------------"); 

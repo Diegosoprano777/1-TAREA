@@ -1,0 +1,5 @@
+var nombre=("Diego")
+var apellido=("Sanchez")
+var edad=("23")
+console.log(nombre)
+console.log(nombre,apellido,edad)
